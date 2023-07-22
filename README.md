@@ -7,7 +7,7 @@ For subtaskB, each folder represents a dataset splits where data from one left-o
 
 For subtaskB, during training/validation, please filter out rows where "In Use"==0, as these are LexsimTopics that are similar to the test target, we don't use them to ensure zero-shot learning.
 
-Please site our paper at:
+Please cite us:
 ```
 @inproceedings{zhao-etal-2023-c,
     title = "{C}-{STANCE}: A Large Dataset for {C}hinese Zero-Shot Stance Detection",

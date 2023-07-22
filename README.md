@@ -18,6 +18,8 @@ In this work:
     体育 (sports)<br />
     权益 (rights)<br />
     环保 (environmental protection)<br />
+
+
 You can find the data in the __./c_stance_dataset__ folder for subtaskA and subtaskB.
 
 For subtaskB, each folder represents a dataset splits where data from one left-out domain (the zero-shot domain) are used for testing, while data from the rest six domains are used for training/validation.

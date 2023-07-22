@@ -5,7 +5,7 @@ You can find the data in the c_stance_dataset folder for subtaskA and subtaskB.
 
 For subtaskB, each folder represents a dataset splits where data from one left-out domain (the zero-shot domain) are used for testing, while data from the rest six domains are used for training/validation.
 
-For subtaskB, during training/validation, please filter out rows where "In Use"==0, as these are LexsimTopics that are similar to the test target, we don't use them to ensure zero-shot learning.
+For subtaskB, during training/validation, please filter out rows where "In Use"==0, as these are LexsimTopics that are similar to the test targets, we don't use them to ensure zero-shot learning.
 
 Please cite us:
 ```

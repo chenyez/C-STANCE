@@ -8,7 +8,7 @@ In this work:
     __Target-based zero-shot stance detection (subtask A)__, where stance detection classifiers are evaluated using a large number of completely unseen targets.<br />
     __Domain-based zero-shot stance detection (subtask B)__, where stance detection classifiers are evaluated using a large number of unseen targets from completely new domains.
 
-4. We consider a more diverse set of targets including both __noun phrases__ and __claims__ in C-STANCE as well as multiple targets per input text.
+4. We consider a more diverse set of targets (40k distinct targets in total) including both __noun phrases__ and __claims__ in C-STANCE as well as multiple targets per input text.
 
 
 You can find the data in the __./c_stance_dataset__ folder for subtaskA and subtaskB.
